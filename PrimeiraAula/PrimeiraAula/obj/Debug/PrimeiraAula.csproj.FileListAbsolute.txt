@@ -1,0 +1,27 @@
+c:\users\reverdan.sparinger\documents\visual studio 2012\Projects\PrimeiraAula\PrimeiraAula\bin\Debug\PrimeiraAula.exe.config
+c:\users\reverdan.sparinger\documents\visual studio 2012\Projects\PrimeiraAula\PrimeiraAula\bin\Debug\PrimeiraAula.exe
+c:\users\reverdan.sparinger\documents\visual studio 2012\Projects\PrimeiraAula\PrimeiraAula\bin\Debug\PrimeiraAula.pdb
+c:\users\reverdan.sparinger\documents\visual studio 2012\Projects\PrimeiraAula\PrimeiraAula\obj\Debug\PrimeiraAula.csprojResolveAssemblyReference.cache
+c:\users\reverdan.sparinger\documents\visual studio 2012\Projects\PrimeiraAula\PrimeiraAula\obj\Debug\PrimeiraAula.Properties.Resources.resources
+c:\users\reverdan.sparinger\documents\visual studio 2012\Projects\PrimeiraAula\PrimeiraAula\obj\Debug\PrimeiraAula.csproj.GenerateResource.Cache
+c:\users\reverdan.sparinger\documents\visual studio 2012\Projects\PrimeiraAula\PrimeiraAula\obj\Debug\PrimeiraAula.exe
+c:\users\reverdan.sparinger\documents\visual studio 2012\Projects\PrimeiraAula\PrimeiraAula\obj\Debug\PrimeiraAula.pdb
+c:\users\reverdan.sparinger\documents\visual studio 2012\Projects\PrimeiraAula\PrimeiraAula\obj\Debug\PrimeiraAula.frmPrincipal.resources
+C:\Users\reverdan.sparinger\Documents\Visual Studio 2012\Projects\ads noite\PrimeiraAula\PrimeiraAula\bin\Debug\PrimeiraAula.exe.config
+C:\Users\reverdan.sparinger\Documents\Visual Studio 2012\Projects\ads noite\PrimeiraAula\PrimeiraAula\obj\Debug\PrimeiraAula.exe
+C:\Users\reverdan.sparinger\Documents\Visual Studio 2012\Projects\ads noite\PrimeiraAula\PrimeiraAula\obj\Debug\PrimeiraAula.pdb
+C:\Users\reverdan.sparinger\Documents\Visual Studio 2012\Projects\ads noite\PrimeiraAula\PrimeiraAula\bin\Debug\PrimeiraAula.exe
+C:\Users\reverdan.sparinger\Documents\Visual Studio 2012\Projects\ads noite\PrimeiraAula\PrimeiraAula\bin\Debug\PrimeiraAula.pdb
+C:\Users\reverdan.sparinger\Documents\Visual Studio 2012\Projects\ads noite\PrimeiraAula\PrimeiraAula\obj\Debug\PrimeiraAula.csprojResolveAssemblyReference.cache
+C:\Users\reverdan.sparinger\Documents\Visual Studio 2012\Projects\ads noite\PrimeiraAula\PrimeiraAula\obj\Debug\PrimeiraAula.frmPrincipal.resources
+C:\Users\reverdan.sparinger\Documents\Visual Studio 2012\Projects\ads noite\PrimeiraAula\PrimeiraAula\obj\Debug\PrimeiraAula.Properties.Resources.resources
+C:\Users\reverdan.sparinger\Documents\Visual Studio 2012\Projects\ads noite\PrimeiraAula\PrimeiraAula\obj\Debug\PrimeiraAula.csproj.GenerateResource.Cache
+C:\Users\n132698\Desktop\c#\PrimeiraAula\PrimeiraAula\bin\Debug\PrimeiraAula.exe.config
+C:\Users\n132698\Desktop\c#\PrimeiraAula\PrimeiraAula\obj\Debug\PrimeiraAula.exe
+C:\Users\n132698\Desktop\c#\PrimeiraAula\PrimeiraAula\obj\Debug\PrimeiraAula.pdb
+C:\Users\n132698\Desktop\c#\PrimeiraAula\PrimeiraAula\bin\Debug\PrimeiraAula.exe
+C:\Users\n132698\Desktop\c#\PrimeiraAula\PrimeiraAula\bin\Debug\PrimeiraAula.pdb
+C:\Users\n132698\Desktop\c#\PrimeiraAula\PrimeiraAula\obj\Debug\PrimeiraAula.csprojResolveAssemblyReference.cache
+C:\Users\n132698\Desktop\c#\PrimeiraAula\PrimeiraAula\obj\Debug\PrimeiraAula.frmPrincipal.resources
+C:\Users\n132698\Desktop\c#\PrimeiraAula\PrimeiraAula\obj\Debug\PrimeiraAula.Properties.Resources.resources
+C:\Users\n132698\Desktop\c#\PrimeiraAula\PrimeiraAula\obj\Debug\PrimeiraAula.csproj.GenerateResource.Cache

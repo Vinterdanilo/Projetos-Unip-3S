@@ -22,7 +22,9 @@ namespace PrimeiraAula
         /*criacao do metodo executar para pegar a operacao*/
         private void Executar(String op)
         {
-            Controle controle = new Controle();
+            Controle controle = new Controle(txbPrimeiroNumero.Text,txbSegundoNumero.Text,op);
+            /*
+          
             controle.num1 = txbPrimeiroNumero.Text;
             controle.num2 = txbSegundoNumero.Text;
             controle.op = op;

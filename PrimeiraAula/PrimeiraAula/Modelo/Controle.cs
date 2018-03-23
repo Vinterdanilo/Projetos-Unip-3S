@@ -7,14 +7,14 @@ using PrimeiraAula.Modelo;
 
 namespace PrimeiraAula.Modelo
 {
-    public class Controle
+    public class Controle : absPropriedades
     {
+        public Controle(String num1, String num2, String op) /*jogando os atributos para a classe pai "base"*/  :base (num1, num2, op)
+        {       
+            this.Executar();
+        }
         /*atributos*/
-        public String num1;
-        public String num2;
-        public String op;
-        public String resposta;
-        public String mensagem;
+       
 
         /*classe Executar*/
         public void Executar()
@@ -22,21 +22,13 @@ namespace PrimeiraAula.Modelo
             this.mensagem = "";
 
             /*isntanciar a classe*/
-            validacao validacao = new validacao();
-            validacao.num1 = this.num1;
-            validacao.num2 = this.num2;
-            validacao.op = this.op;
-            validacao.Validar();
-            
+            validacao validacao = new validacao(this.num1, this.num2, this.op);
 
             if (validacao.mensagem.Equals(""))
             {
                 /*isntanciar a classe*/
-                Calculos calculos = new Calculos();
-                calculos.n2 = validacao.n2;
-                calculos.n1 = validacao.n1;
-                calculos.op = this.op;
-                calculos.Calcular();
+
+                Calculos calculos = new Calculos(validacao.n2,validacao.n1, this.op);
                 this.resposta = calculos.resposta;
                 
             }

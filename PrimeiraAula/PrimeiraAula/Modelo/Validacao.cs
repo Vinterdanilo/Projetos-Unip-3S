@@ -6,15 +6,12 @@ using PrimeiraAula.Modelo;
 
 namespace PrimeiraAula.Modelo
 {
-   public class validacao
+   public class validacao : absPropriedades
     {
-       public String num1;
-       public String num2;
-       public Double n1;
-       public Double n2;
-       public String op;
-       public String mensagem;
-
+       public validacao(String num1, String num2, String op) :base (num1, num2, op)
+       {
+           Validar();
+       }
        /*metodo para se comunicar com os atributos*/
        public void Validar()
        {
@@ -38,7 +35,8 @@ namespace PrimeiraAula.Modelo
            }
 
            
-           if (this.op.Equals("/") && this.num2.Equals("0"))
+           if (this.op.Equals("/") && this.num2
+               .Equals("0"))
            {
                this.mensagem += "Não é possível divisão por zero";
            }
